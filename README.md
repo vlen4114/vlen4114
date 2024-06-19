@@ -1,4 +1,4 @@
-##👋Hi, I'm Vasan Lennin!
+# 👋Hi, I'm Vasan Lennin!
 <!--
 **vlen4114/vlen4114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am an ambitious and diligent Computer Science student enrolled at the SRM Institute of Science and Technology. With a robust foundation in programming, mathematics, and problem-solving, I am driven by my childhood fascination with technological advancements. I am amazed by technology’s potential to impact millions, and I aspire to gain professional experience in Software Development to contribute value and solve real-world problems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/krakenmon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vasannn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanlennin) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vl8222) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25628634) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VasanLennin) 
 
 # 💻 Tech Stack:
