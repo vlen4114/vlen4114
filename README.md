@@ -5,8 +5,9 @@
 🚀 Passionate about solving real-world problems through technology and innovation  
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNkd2F3bGd3cW1hbnZzaThzMmgzdnF2aDBzZmdscWhhMWw4Zmh6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI Dev GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNkd2F3bGd3cW1hbnZzaThzMmgzdnF2aDBzZmdscWhhMWw4Zmh6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Dev GIF"/>
 </div>
+
 
 ---
 
